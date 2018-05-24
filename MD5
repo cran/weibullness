@@ -1,0 +1,9 @@
+0f05c095c377d3abca4416bf83bc73a8 *DESCRIPTION
+ab700e8ac6d28d3209674b48f055e697 *NAMESPACE
+50221772525ac5bac61bc598ba61a8ad *R/WeibullnessTest.R
+5520b7195566a745a9767e78d96a1302 *R/zzz.R
+5429f2b77d343de795c60e97252d4847 *data/Weibull_Quantiles_from_3_to_1000-bunzip2.rda
+8611bef43d76e93d9aa675fa48babd5a *inst/CITATION
+17ec0e062a8bf4987905cd014e09acd4 *man/Weibull.Plot.Quantiles.Rd
+b188a73a0ed930e1347a636ef82386ed *man/print.wp.test.critical.value.Rd
+15ab177e1581d78690fa0e17650d5f25 *man/wp.test.Rd
