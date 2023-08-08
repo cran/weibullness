@@ -54,7 +54,7 @@ a warning is printed and the current approximation is returned
 (see also \code{\link{uniroot}}).
 }
 \value{An object of class \code{"weibull.estimate"}, a list with 
-two parameter estimates (if \code{threshold} is given) or three parameter estimates.
+two parameter estimates (if \code{threshold} is given) or three-parameter estimates.
 }
 \references{
 Park, C. (2018). 
@@ -68,7 +68,7 @@ Weibull model using the sample correlation coefficient.
 \emph{International Journal of Industrial Engineering - Theory,
 Applications and Practice},  
 \bold{24}(4), 376-391. \cr 
-\url{http://journals.sfu.ca/ijietap/index.php/ijie/article/view/2848}
+\doi{10.23055/ijietap.2017.24.4.2848}
 
 Farnum, N. R. and P. Booth (1997). 
 Uniqueness of Maximum Likelihood Estimators of the 2-Parameter Weibull Distribution.
@@ -79,6 +79,8 @@ Uniqueness of Maximum Likelihood Estimators of the 2-Parameter Weibull Distribut
 %% ~Make other sections like Warning with \section{Warning }{\ldots} ~
 \seealso{
 \code{\link{weibull.wp}} for the parameter estimation using the Weibull plot.
+
+\code{\link{weibull.rm}} for robust parameter estimation using the repeated median method.
 
 \code{\link{weibull.threshold}} for the estimate of the threshold parameter.
 
